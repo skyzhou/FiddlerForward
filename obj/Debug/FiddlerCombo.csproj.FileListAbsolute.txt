@@ -1,0 +1,12 @@
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\FiddlerCombo.dll
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\FiddlerCombo.pdb
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\Fiddler.exe
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\Xceed.FileSystem.dll
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\Xceed.Zip.dll
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\Xceed.Compression.Formats.dll
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\bin\Debug\Xceed.Compression.dll
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\obj\Debug\FiddlerCombo.ComboContro.resources
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\obj\Debug\FiddlerCombo.csproj.GenerateResource.Cache
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\obj\Debug\FiddlerCombo.dll
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\obj\Debug\FiddlerCombo.pdb
+c:\users\skyzhou\documents\visual studio 2012\Projects\FiddlerCombo\FiddlerCombo\obj\Debug\FiddlerCombo.ComboWin.resources
